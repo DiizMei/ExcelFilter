@@ -19,10 +19,6 @@ dependencyResolutionManagement {
 rootProject.name = "ExcelFilter"
 include(":app")
 
-Нажми Commit changes.
-Файл 2: build.gradle.kts
-
-Снова выбери Add file → Create new file. Имя файла — build.gradle.kts.
 kotlin
 
 
